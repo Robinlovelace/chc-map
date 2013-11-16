@@ -4,11 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIELD_1": null,
-        "fid": null,
         "Name": "CC Continental Supermarket",
         "Describe": "Wide range of foods including large veg. section. Good for bulk buying",
-        "Created by": "All"
+        "Created by": "All",
+        "Type": "Food"
       },
       "geometry": {
         "type": "Polygon",
@@ -121,11 +120,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIELD_1": null,
-        "fid": null,
         "Name": "Cost Cutter",
         "Describe": "Cheap, fast grocers",
-        "Created by": "All"
+        "Created by": "All",
+        "Type": "Food"
       },
       "geometry": {
         "type": "Polygon",
@@ -182,11 +180,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIELD_1": null,
-        "fid": "osgb1000032639431",
         "Name": "Medina",
         "Describe": "Independent grocers with small veg. section",
-        "Created by": "All"
+        "Created by": "All",
+        "Type": "Food"
       },
       "geometry": {
         "type": "Polygon",
@@ -235,11 +232,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIELD_1": null,
-        "fid": null,
         "Name": "Stanton's Hardware Store",
         "Describe": "Indepent, friendly and remarkably well-stocked hardware store",
-        "Created by": "Rebecca"
+        "Created by": "Rebecca",
+        "Type": "Hardware"
       },
       "geometry": {
         "type": "Polygon",
@@ -272,11 +268,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIELD_1": null,
-        "fid": null,
         "Name": "Cantor Fish and Chip Bar",
         "Describe": "1:30 filling portion of chips - bit soft but in paper - will batter your food!",
-        "Created by": "Clare"
+        "Created by": "Clare",
+        "Type": "Food"
       },
       "geometry": {
         "type": "Polygon",
