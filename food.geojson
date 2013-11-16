@@ -300,6 +300,17 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5312302112579346,
+          53.8169195780984
+        ]
+      }
     }
   ]
 }
