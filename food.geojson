@@ -237,43 +237,6 @@
       "properties": {
         "FIELD_1": null,
         "fid": null,
-        "Name": "N. 5, Manygates Crescent",
-        "Describe": "The House of Dale",
-        "Created by": "Luke"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.490151879838182,
-              53.66714041634551
-            ],
-            [
-              -1.490061001576452,
-              53.66718564454562
-            ],
-            [
-              -1.489959217923353,
-              53.66714903124451
-            ],
-            [
-              -1.490061001576496,
-              53.66708657318686
-            ],
-            [
-              -1.490151879838182,
-              53.66714041634551
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FIELD_1": null,
-        "fid": null,
         "Name": "Stanton's Hardware Store",
         "Describe": "Indepent, friendly and remarkably well-stocked hardware store",
         "Created by": "Rebecca"
