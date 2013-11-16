@@ -316,6 +316,54 @@
           53.8169195780984
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Inkwell",
+        "Describe": "Community Cafe + venue",
+        "Created by": "Robin",
+        "Type": "Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5346527099609375,
+          53.82462095897264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Green Action",
+        "Describe": "Food Coop",
+        "Created by": "Robin",
+        "Type": "Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5566253662109375,
+          53.8065622829677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pedallers Arms",
+        "Describe": "Bicycle coop",
+        "Created by": "Robin",
+        "Type": "Bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5327322483062744,
+          53.80072369501686
+        ]
+      }
     }
   ]
 }
