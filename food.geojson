@@ -303,7 +303,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Name": "Dutch Pot",
+        "Describe": "Carribean takeaway",
+        "Created by": "Robin",
+        "Type": "Takeaway"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
