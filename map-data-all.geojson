@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Dutch Pot", "Describe": "Carribean takeaway", "Created by": "Robin", "Type": "Takeaway" }, "geometry": { "type": "Point", "coordinates": [ -1.531230211257935, 53.8169195780984 ] } },
+{ "type": "Feature", "properties": { "Name": "Inkwell", "Describe": "Community Cafe + venue", "Created by": "Robin", "Type": "Cafe" }, "geometry": { "type": "Point", "coordinates": [ -1.534652709960938, 53.824620958972638 ] } },
+{ "type": "Feature", "properties": { "Name": "Green Action", "Describe": "Food Coop", "Created by": "Robin", "Type": "Food" }, "geometry": { "type": "Point", "coordinates": [ -1.556625366210938, 53.806562282967697 ] } },
+{ "type": "Feature", "properties": { "Name": "Pedallers Arms", "Describe": "Bicycle coop", "Created by": "Robin", "Type": "Bicycle" }, "geometry": { "type": "Point", "coordinates": [ -1.532732248306274, 53.800723695016863 ] } },
+{ "type": "Feature", "properties": { "Name": "CC Continental Supermarket", "Describe": "Wide range of foods including large veg. section. Good for bulk buying", "Created by": "All", "Type": "Food" }, "geometry": { "type": "Point", "coordinates": [ -1.533935180179076, 53.81368135391169 ] } },
+{ "type": "Feature", "properties": { "Name": "Cost Cutter", "Describe": "Cheap, fast grocers", "Created by": "All", "Type": "Food" }, "geometry": { "type": "Point", "coordinates": [ -1.532342829900014, 53.815575682333225 ] } },
+{ "type": "Feature", "properties": { "Name": "Medina", "Describe": "Independent grocers with small veg. section", "Created by": "All", "Type": "Food" }, "geometry": { "type": "Point", "coordinates": [ -1.53230282367085, 53.81563463338199 ] } },
+{ "type": "Feature", "properties": { "Name": "Stanton's Hardware Store", "Describe": "Indepent, friendly and remarkably well-stocked hardware store", "Created by": "Rebecca", "Type": "Hardware" }, "geometry": { "type": "Point", "coordinates": [ -1.517010864833865, 53.811054379270885 ] } },
+{ "type": "Feature", "properties": { "Name": "Cantor Fish and Chip Bar", "Describe": "1:30 filling portion of chips - bit soft but in paper - will batter your food!", "Created by": "Clare", "Type": "Food" }, "geometry": { "type": "Point", "coordinates": [ -1.53104563455552, 53.817367719962149 ] } }
+]
+}
