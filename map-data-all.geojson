@@ -160,6 +160,22 @@
           53.819250408517334
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Train station!",
+        "Describe": "Test ",
+        "Created by": "test",
+        "Type": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5481281280517578,
+          53.7949223177007
+        ]
+      }
     }
   ]
 }
