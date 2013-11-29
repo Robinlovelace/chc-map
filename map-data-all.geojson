@@ -176,6 +176,22 @@
           53.7949223177007
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hasans",
+        "Describe": "Vegetarian restaurant ",
+        "Created by": "Cath",
+        "Type": "Eat in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5378713607788086,
+          53.80162662258455
+        ]
+      }
     }
   ]
 }
