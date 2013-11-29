@@ -256,6 +256,22 @@
           53.79122118369246
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Grove Cafe",
+        "Describe": "Vegan Pizza and other afforbable goodies",
+        "Created by": "Jason, Luke D's mate",
+        "Type": "Eat in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5749287605285645,
+          53.81043310682012
+        ]
+      }
     }
   ]
 }
