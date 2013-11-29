@@ -192,6 +192,38 @@
           53.80162662258455
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wharf Chambers",
+        "Describe": "Cooperative bar",
+        "Created by": "Luke",
+        "Type": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5379813313484192,
+          53.79542137542354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Meanwood Valley Urban Farm",
+        "Describe": "Cheep bikes, good food, fun",
+        "Created by": "Cath",
+        "Type": "Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.550493836402893,
+          53.81887989115229
+        ]
+      }
     }
   ]
 }
