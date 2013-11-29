@@ -224,6 +224,22 @@
           53.81887989115229
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Uni mushroomy path",
+        "Describe": "Shaggy inkcaps here",
+        "Created by": "Kat",
+        "Type": "Foraging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5529534220695496,
+          53.8068030320266
+        ]
+      }
     }
   ]
 }
