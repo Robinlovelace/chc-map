@@ -240,6 +240,22 @@
           53.8068030320266
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Grove",
+        "Describe": "Folk, bluegrass pub",
+        "Created by": "Luke + Riley",
+        "Type": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5478277206420898,
+          53.79122118369246
+        ]
+      }
     }
   ]
 }
