@@ -272,6 +272,21 @@
           53.81043310682012
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Meanwood Community Shop",
+        "Describe": "2nd hand books, clothes etc v. cheap ",
+        "Created by": "Ellie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5667963027954102,
+          53.828999854692974
+        ]
+      }
     }
   ]
 }
