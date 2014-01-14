@@ -300,6 +300,21 @@
           53.82824315850094
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Reginald Centre & Chapeltown library",
+        "Describe": "The place to go for housing benefit, and Chapeltown library",
+        "Created by": "Flo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5313911437988281,
+          53.817286945846625
+        ]
+      }
     }
   ]
 }
