@@ -315,6 +315,21 @@
           53.817286945846625
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Greedy Pig",
+        "Describe": "Lovely cafe, they know what vegan means",
+        "Created by": "Flo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.538686752319336,
+          53.80125911756995
+        ]
+      }
     }
   ]
 }
