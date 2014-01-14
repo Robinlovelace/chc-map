@@ -287,6 +287,19 @@
           53.828999854692974
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chapel Allerton Librarz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5372705459594724,
+          53.82824315850094
+        ]
+      }
     }
   ]
 }
