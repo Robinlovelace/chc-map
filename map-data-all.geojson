@@ -330,6 +330,22 @@
           53.80125911756995
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafe Lento ",
+        "Describe": "Cultural Cafe, Great jazz gigs on friday nights fortnightly ",
+        "Created by": "Luke T ",
+        "Type": "Cafe "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.581124663352966,
+          53.81999784242207
+        ]
+      }
     }
   ]
 }
