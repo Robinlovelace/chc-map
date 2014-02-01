@@ -346,6 +346,22 @@
           53.81999784242207
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vantage Point ",
+        "Describe": "Great night view of city",
+        "Created by": "Luke T ",
+        "Type": "View "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549597978591919,
+          53.82173951575561
+        ]
+      }
     }
   ]
 }
