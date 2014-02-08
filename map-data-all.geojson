@@ -362,6 +362,38 @@
           53.82173951575561
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Seagulls",
+        "Describe": "2nd hand paint",
+        "Created by": "Robin",
+        "Type": "Hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5722143650054932,
+          53.801354162279075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "In Touch",
+        "Describe": "Massage and holistic therapies",
+        "Created by": "Robin",
+        "Type": "Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5320348739624021,
+          53.81665355116696
+        ]
+      }
     }
   ]
 }
