@@ -394,6 +394,22 @@
           53.81665355116696
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Martin's Practice",
+        "Describe": "GPs",
+        "Created by": "Robin",
+        "Type": "Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5331238508224487,
+          53.822170097398015
+        ]
+      }
     }
   ]
 }
