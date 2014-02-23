@@ -410,6 +410,146 @@
           53.822170097398015
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nichols Veggie Cafe",
+        "Type": "Eat In",
+        "Describe": "Good coffee and vegan cake",
+        "Created By": "CordyCep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5366697311401365,
+          53.82752127659063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "7 Arts",
+        "Describe": "Arts cafe with veggie options. Various comedy, arts and music events in evening",
+        "Created by": "CordyCep",
+        "Type": "Eat In"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5372490882873535,
+          53.82755927068553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Aagrah Indian Restaurant",
+        "Describe": "Good quality food with decent selection of veggie and some vegan options.",
+        "Type": "Eat In",
+        "Created By": "CordyCep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5376782417297363,
+          53.828293816413506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sukhothai",
+        "Describe": "Top  notch Thai restaurant with good vegan and veggie options.",
+        "Type": "Eat In",
+        "Created By": "CordyCep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5374422073364258,
+          53.82996549316147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sami's",
+        "Describe": "Greasy Spoon / Moroccan",
+        "Type": "Eat In",
+        "Created By": "CordyCep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5378928184509275,
+          53.82865475226732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nag's Head",
+        "Describe": "A good 'old man' / local pub; part of the Sam Smith's brewery so most beers are vegan.",
+        "Type": "Pub",
+        "Created by": "CordyCep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5367984771728516,
+          53.82881305648525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Three Hulats",
+        "Type": "Pub",
+        "Describe": "Despite being a Wetherspoons, a decent pub with a good range of ales.",
+        "CordyCep": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5356183052062988,
+          53.82641943284934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Montreal Avenue Postoffice",
+        "Type": "Post Office",
+        "Describe": "The nearest post office to Cornerstone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53533935546875,
+          53.826511254268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Co-operative Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5391159057617188,
+          53.82868641315876
+        ]
+      }
     }
   ]
 }
